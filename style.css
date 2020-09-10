@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: lightblue;
+}
+#nav {
+    background-color: white;
+    /*width: 180px;
+    height: 50px;
+    border-radius: 20px;
+    text-align: right;
+    position: fixed;
+    text-emphasis-color: blue; */
+    text-align: right;
+    padding: 35px;
+    width: 300px;
+ 
+}
+
+#form{
+    background-color: white;
+    padding: 20px;
+    box-shadow: 5px 5px rgb(31, 68, 66);
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    
+}
+
+#submit{
+    background-color: blue;
+    margin: auto;
+    width: 100x;
+    border-radius: 25px;
+
+}
+
+
+
+
+
+
